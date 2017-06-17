@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MP2 Scripts\BrickSpawner.cs">
+    <Files>
+      <File FileName="Assets\BrickDodge\Scripts\BlockSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\BrickDodge\Scripts\Block.cs" Line="1" Column="1" />
+      <File FileName="Assets\MP2 Scripts\Animation.cs" Line="1" Column="1" />
+      <File FileName="Assets\MP2 Scripts\AnimationController.cs" Line="1" Column="1" />
+      <File FileName="Assets\MP2 Scripts\BrickCollision.cs" Line="1" Column="1" />
+      <File FileName="Assets\MP2 Scripts\BrickSettings.cs" Line="1" Column="1" />
+      <File FileName="Assets\MP2 Scripts\BrickSpawner.cs" Line="22" Column="4" />
+      <File FileName="Assets\MP2 Scripts\Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\MP2 Scripts\GameObj.cs" Line="1" Column="1" />
+      <File FileName="Assets\MP2 Scripts\GameScore.cs" Line="1" Column="1" />
+      <File FileName="Assets\MP2 Scripts\Model.cs" Line="1" Column="1" />
+      <File FileName="Assets\MP2 Scripts\NeighborDestroyAnim.cs" Line="1" Column="1" />
+      <File FileName="Assets\MP2 Scripts\NeighborDestroyer.cs" Line="1" Column="1" />
+      <File FileName="Assets\MP2 Scripts\NeighborHorizontalDestroyer.cs" Line="1" Column="1" />
+      <File FileName="Assets\MP2 Scripts\NeighborHorizontalDestroyerAnim.cs" Line="1" Column="1" />
+      <File FileName="Assets\MP2 Scripts\NeighborVerticalDestroyer.cs" Line="1" Column="1" />
+      <File FileName="Assets\MP2 Scripts\NeighborVerticalDestroyerAnim.cs" Line="1" Column="1" />
+      <File FileName="Assets\MP2 Scripts\ScoreFile.cs" Line="1" Column="1" />
+      <File FileName="Assets\MP2 Scripts\Vector2.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
